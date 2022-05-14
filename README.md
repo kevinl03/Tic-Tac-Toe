@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Old python project, learning to use Git 
+a 24-hour speedrun self-assigned script
+
